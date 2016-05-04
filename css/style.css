@@ -1,0 +1,17 @@
+/* slideshow image placement*/
+
+#slideshow img{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+}
+
+/* other styles*/
+
+header {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align:center;
+  height: 10em;
+  padding: 2em;
+}
